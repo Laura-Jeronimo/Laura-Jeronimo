@@ -2,9 +2,8 @@
 
 ##
 
-- 🔭 Atualmente estou trabalhando com Inteligência Articial
-- 🌱 Estou aprendendo PHP, JavaScript, C++ e C#
-- 😄 Pronomes: Ela/Dela
+- 🔭 Atualmente estou participando de um projeto com Inteligência Artificial 
+- 🌱 Estou aprendendo Python, PHP, JavaScript, e C#
 
 <div align="center">
   <a href="https://github.com/laura-jeronimo">
