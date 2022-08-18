@@ -20,4 +20,3 @@
 
 ##
 
-![Snake animation](https://github.com/laura-jeronimo/laura-jeronimo/blob/output/github-contribution-grid-snake.svg)
