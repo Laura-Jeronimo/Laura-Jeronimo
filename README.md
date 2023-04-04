@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Atualmente estou participando de um projeto com Inteligência Artificial 
-- 🌱 Estou aprendendo Python, PHP, JavaScript, e C#
+- 🌱 Estou aprendendo Python
+- 🔭 Estagiária na área de Inteligência Artificial 
 
 <div align="center">
   <a href="https://github.com/laura-jeronimo">
