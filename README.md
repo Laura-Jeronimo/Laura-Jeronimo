@@ -1,22 +1,16 @@
-### Oii! Eu sou a Laura Jeronimo
+## Hey! I'm Laura and I'm 17 years old👋
 
 ##
 
-- 🌱 Estou aprendendo Python
-- 🔭 Estagiária na área de Inteligência Artificial 
+👩‍💻 I'm a technology student and a development intern in constant learning
 
-<div align="center">
-  <a href="https://github.com/laura-jeronimo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laura-jeronimo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-jeronimo&layout=compact&langs_count=7&theme=radical"/>
-</div>
+🧠 I participate in the development of Artificial Intelligence projects, using Machine Learning, Computer Vision and Natural Language Processing
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+💻 I'm currently studying web development and applying this knowledge in practice
 
 ##
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,ts,react,styledcomponents)](https://skillicons.dev)
+
 
