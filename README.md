@@ -1,4 +1,4 @@
-## Hey! I'm Laura and I'm 17 years old👋
+## Hey! I'm Laura and I'm 18 years old👋
 
 #
 
