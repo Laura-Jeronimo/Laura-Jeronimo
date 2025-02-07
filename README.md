@@ -2,7 +2,7 @@
 
 #
 
-👩‍💻 I'm a technology student and a development intern in constant learning
+👩‍💻 I'm a technology student and a full-stack developer in constant learning
 
 🧠 I participate in the development of Artificial Intelligence projects, using Machine Learning, Computer Vision and Natural Language Processing
 
